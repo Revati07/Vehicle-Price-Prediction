@@ -39,7 +39,7 @@ This project uses a dataset of vehicle listings to train a regression model that
 
 # Results
 
-The best-performing model achieved an R² score of approximately **X.XX** on the test dataset. The model generalizes well on unseen data and predicts vehicle prices with good accuracy.
+The best-performing model achieved an R² score of approximately 84% on the test dataset. The model generalizes well on unseen data and predicts vehicle prices with good accuracy.
 
 # Future Scope
 
